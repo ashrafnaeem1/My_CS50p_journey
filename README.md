@@ -51,3 +51,7 @@ as the solution, or may comprise of multiple files. The problem folders may comp
 ├── README.md
 └── LICENSE
 ```
+
+## LICENSE
+
+All code in this repository is available as per MIT License, see [LICENSE](./LICENSE)
