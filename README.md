@@ -21,7 +21,7 @@ Rather than including every early draft or original iteration, this codebase str
 * **Language:** `Python 3`
 * **Environment:** CS50 DevSpace / VS Code
 * **Key Topics Covered:** Functions, Variables, Conditionals, Loops, Exceptions, Libraries, Unit Tests, File I/O, Regular Expressions, and Object-Oriented Programming (OOP).
-* **Libraries:** `random`, `sys`, `re`, `argparse`, `requests`, `csv`, `pytest`, `pillow`, `fpdf2`, `emoji`, `pyfiglet`, `inflect`, `customtkinter` (final project), `pycountry` (final project).
+* **Libraries:** `random`, `math`, `sys`, `re`, `argparse`, `requests`, `csv`, `pytest`, `pillow`, `fpdf2`, `emoji`, `pyfiglet`, `inflect`, `customtkinter` (final project), `pycountry` (final project).
 
 ## Repository Structure
 
